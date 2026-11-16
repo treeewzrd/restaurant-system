@@ -1,8 +1,13 @@
 # 🍽️ Restaurant Order System
 
+**Status: Coursework / learning project.**
+
+A Python coursework exercise for menu selection, order totals, and itemized receipts.
+
+Preserved as a learning reference; production deployment and current compatibility have not been verified.
+
+
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/treewzrd/restaurant-order-system/graphs/commit-activity)
 
 A Python-based command-line restaurant order system that allows customers to view menu items, place orders, and receive itemized receipts.git clone https://github.com/treewzrd/restaurant-order-system.git
 
@@ -63,9 +68,9 @@ Standard Library Only (No external dependencies)
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ##📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+No project license file is currently provided. Preserve any upstream notices.
 
 ##👨‍💻 Author
-Timothy McGrath
-📧 Email: treewzrd@gmail.com
+treeewzrd
+📧 Email: contact via GitHub
 🔗 GitHub: @treewzrd

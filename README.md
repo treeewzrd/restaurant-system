@@ -1,6 +1,8 @@
 # Restaurant Order System
 
-![Status](https://img.shields.io/badge/status-coursework-blue)
+**Coursework for school**
+
+![Coursework](https://img.shields.io/badge/Coursework-blue)
 
 Python coursework exercise for taking menu orders and printing itemized receipts.
 
